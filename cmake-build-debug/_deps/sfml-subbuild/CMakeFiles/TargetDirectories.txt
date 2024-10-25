@@ -1,0 +1,3 @@
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

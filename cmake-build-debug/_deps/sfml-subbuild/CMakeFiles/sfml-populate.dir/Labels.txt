@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+D:/VSprojects/Clion/nicepong/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule
