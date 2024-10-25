@@ -7,7 +7,6 @@ set(BUILD_SHARED_LIBS OFF)
 FETCHCONTENT_DECLARE(SFML GIT_REPOSITORY https://github.com/SFML/SFML.git GIT_TAG 2.5.1)
 FETCHCONTENT_MAKEAVAILABLE(SFML)
 
-# Find OpenCV
 set(OpenCV_DIR "C:/opencv/build")
 find_package(OpenCV REQUIRED)
 
